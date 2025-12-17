@@ -14,10 +14,10 @@ Un cop comenceu heu de canviar aquesta explicació amb la corresponent al vostre
 # Aquest fitxer ha de contenir com a mínim:
 
 
- * Nom dels integrants
+ * Nom dels integrants :5
 
 
- * Nom del projecte
+ * Nom del projecte 
 
 
  * Petita descripció
